@@ -1,0 +1,49 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "epoch_name": {
+        "Description": "The name of the epoch"
+    },
+    "peak_time": {
+        "Description": "Time at which the ripple peaked."
+    },
+    "state": {
+        "Description": "UP or DOWN state"
+    },
+    "label": {
+        "Description": "Sleep state."
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "epochs": "The 'epochs' table in the NWB file.",
+            "RippleTimeIntervals": "The 'RippleTimeIntervals' table in the NWB file.",
+            "UpDownStatesTimeIntervals": "The 'UpDownStatesTimeIntervals' table in the NWB file.",
+            "SleepStates": "The 'SleepStates' table in the NWB file."
+        },
+        "HED": {
+            "epochs": "Time-block",
+            "RippleTimeIntervals": "Time-interval",
+            "UpDownStatesTimeIntervals": "Time-interval",
+            "SleepStates": "Time-interval"
+        }
+    },
+    "epochs": {
+        "Description": "experimental epochs"
+    },
+    "RippleTimeIntervals": {
+        "Description": "Ripples and their metrics"
+    },
+    "UpDownStatesTimeIntervals": {
+        "Description": "Up and Down states are a phenomenon observed in neurons, predominantly in the cerebral cortex, where they spontaneously fluctuate between periods of high (Up state) and low (Down state) activity. The Up state is characterized by a high rate of neuronal firing and depolarized membrane potentials, indicating active information processing. Conversely, the Down state is associated with a low rate of neuronal firing and hyperpolarized membrane potentials, suggesting a resting or inactive phase.\n\nDetection parameters:\n{\n    \"ch\": 5,\n    \"spikeThreshold\": 0.25,\n    \"gamm_thr\": 0.5,\n    \"down_thr\": 0,\n    \"deltaWaveThreshold\": 0\n}"
+    },
+    "SleepStates": {
+        "Description": "Description of states : {\n    \"WAKEstate\": \"Waked and in locomotion\",\n    \"NREMstate\": \"Non-REM sleep\",\n    \"REMstate\": \"Rapid eye movement sleep\"\n}"
+    }
+}

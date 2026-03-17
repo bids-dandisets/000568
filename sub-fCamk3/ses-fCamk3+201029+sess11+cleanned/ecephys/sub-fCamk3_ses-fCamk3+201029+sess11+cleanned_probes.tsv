@@ -1,0 +1,7 @@
+probe_name	type	manufacturer	description
+N1-F21-O36 | 18	n/a	Neurolight Technologies	"12 µLEDs, 10 x 15 µm each, 3 per shank
+Emission Peak λ = 460 nm and FWHM = 40 nm
+Typical irradiance of 33 mW/mm² (@ max operating current of 100 µA)
+32 recording channels, 8 per shank
+Electrode impedance of 1000 - 1500 kΩ at 1 kHz
+"

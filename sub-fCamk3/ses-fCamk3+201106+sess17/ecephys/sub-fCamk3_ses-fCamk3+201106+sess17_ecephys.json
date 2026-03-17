@@ -1,0 +1,11 @@
+{
+    "InstitutionName": "Princeton",
+    "PowerLineFrequency": "n/a",
+    "Manufacturer": "Neurolight Technologies",
+    "SamplingFrequency": 30000.0,
+    "RecordingDuration": 377.8346666666667,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": "n/a",
+    "BodyPart": "BRAIN",
+    "BodyPartDetails": "CA1"
+}

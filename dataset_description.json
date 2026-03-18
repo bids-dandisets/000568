@@ -1,0 +1,22 @@
+{
+    "Name": "Probing subthreshold dynamics of hippocampal neurons by pulsed optogenetics",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Understanding how excitatory (E) and inhibitory (I) inputs are integrated by neurons requires monitoring their subthreshold behavior. We probed the subthreshold dynamics using optogenetic depolarizing pulses in hippocampal neuronal assemblies in freely moving mice. Excitability decreased during sharp- wave ripples coupled with increased I. In contrast to this \u201cnegative gain,\u201d optogenetic probing showed increased within-field excitability in place cells by weakening I and unmasked stable place fields in initially non\u2013place cells. Neuronal assemblies active during sharp-wave ripples in the home cage predicted spatial overlap and sequences of place fields of both place cells and unmasked preexisting place fields of non\u2013place cells during track running. Thus, indirect probing of subthreshold dynamics in neuronal populations permits the disclosing of preexisting assemblies and modes of neuronal operations.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Valero, Manuel",
+        " Zutshi, Ipshita",
+        "Yoon, Euisik",
+        "Buzs\u00e1ki, Gy\u00f6rgy"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}

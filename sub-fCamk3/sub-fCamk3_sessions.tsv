@@ -1,23 +1,23 @@
-session_id
-ses-fCamk3+201028+sess10+cleanned
-ses-fCamk3+201028+sess10+cleanned+no+raw+data
-ses-fCamk3+201029+sess11+cleanned
-ses-fCamk3+201029+sess11+cleanned+no+raw+data
-ses-fCamk3+201030+sess12
-ses-fCamk3+201030+sess12+no+raw+data
-ses-fCamk3+201102+sess13
-ses-fCamk3+201102+sess13+no+raw+data
-ses-fCamk3+201103+sess14
-ses-fCamk3+201103+sess14+no+raw+data
-ses-fCamk3+201105+sess16
-ses-fCamk3+201105+sess16+no+raw+data
-ses-fCamk3+201106+sess17
-ses-fCamk3+201106+sess17+no+raw+data
-ses-fCamk3+201109+sess18
-ses-fCamk3+201109+sess18+no+raw+data
-ses-fCamk3+201110+sess19
-ses-fCamk3+201110+sess19+no+raw+data
-ses-fCamk3+201111+sess20
-ses-fCamk3+201111+sess20+no+raw+data
-ses-fCamk3+201113+sess22
-ses-fCamk3+201113+sess22+no+raw+data
+session_id	original_session_id
+ses-fCamk3+201028+sess10+cleanned	ses-fCamk3_201028_sess10_cleanned
+ses-fCamk3+201028+sess10+cleanned+no+raw+data	ses-fCamk3_201028_sess10_cleanned_no_raw_data
+ses-fCamk3+201029+sess11+cleanned	ses-fCamk3_201029_sess11_cleanned
+ses-fCamk3+201029+sess11+cleanned+no+raw+data	ses-fCamk3_201029_sess11_cleanned_no_raw_data
+ses-fCamk3+201030+sess12	ses-fCamk3_201030_sess12
+ses-fCamk3+201030+sess12+no+raw+data	ses-fCamk3_201030_sess12_no_raw_data
+ses-fCamk3+201102+sess13	ses-fCamk3_201102_sess13
+ses-fCamk3+201102+sess13+no+raw+data	ses-fCamk3_201102_sess13_no_raw_data
+ses-fCamk3+201103+sess14	ses-fCamk3_201103_sess14
+ses-fCamk3+201103+sess14+no+raw+data	ses-fCamk3_201103_sess14_no_raw_data
+ses-fCamk3+201105+sess16	ses-fCamk3_201105_sess16
+ses-fCamk3+201105+sess16+no+raw+data	ses-fCamk3_201105_sess16_no_raw_data
+ses-fCamk3+201106+sess17	ses-fCamk3_201106_sess17
+ses-fCamk3+201106+sess17+no+raw+data	ses-fCamk3_201106_sess17_no_raw_data
+ses-fCamk3+201109+sess18	ses-fCamk3_201109_sess18
+ses-fCamk3+201109+sess18+no+raw+data	ses-fCamk3_201109_sess18_no_raw_data
+ses-fCamk3+201110+sess19	ses-fCamk3_201110_sess19
+ses-fCamk3+201110+sess19+no+raw+data	ses-fCamk3_201110_sess19_no_raw_data
+ses-fCamk3+201111+sess20	ses-fCamk3_201111_sess20
+ses-fCamk3+201111+sess20+no+raw+data	ses-fCamk3_201111_sess20_no_raw_data
+ses-fCamk3+201113+sess22	ses-fCamk3_201113_sess22
+ses-fCamk3+201113+sess22+no+raw+data	ses-fCamk3_201113_sess22_no_raw_data

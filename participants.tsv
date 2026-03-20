@@ -1,5 +1,5 @@
-participant_id	species	sex	strain
-sub-fCamk1	Mus musculus	M	C57, C57B1/6
-sub-fCamk2	Mus musculus	M	Long Evans
-sub-fCamk3	Mus musculus	M	C57, Long Evans
-sub-fCamk5	Mus musculus	M	Long Evans, C57
+participant_id	original_participant_id	species	sex	strain
+sub-fCamk1	sub-fCamk1	Mus musculus	M	C57, C57B1/6
+sub-fCamk2	sub-fCamk2	Mus musculus	M	Long Evans
+sub-fCamk3	sub-fCamk3	Mus musculus	M	C57, Long Evans
+sub-fCamk5	sub-fCamk5	Mus musculus	M	Long Evans, C57

@@ -1,11 +1,11 @@
-session_id
-ses-fCamk5+210406+sess10
-ses-fCamk5+210406+sess10+no+raw+data
-ses-fCamk5+210407+sess11
-ses-fCamk5+210407+sess11+no+raw+data
-ses-fCamk5+210408+sess12
-ses-fCamk5+210408+sess12+no+raw+data
-ses-fCamk5+210412+sess14
-ses-fCamk5+210412+sess14+no+raw+data
-ses-fCamk5+210414+sess16
-ses-fCamk5+210414+sess16+no+raw+data
+session_id	original_session_id
+ses-fCamk5+210406+sess10	ses-fCamk5_210406_sess10
+ses-fCamk5+210406+sess10+no+raw+data	ses-fCamk5_210406_sess10_no_raw_data
+ses-fCamk5+210407+sess11	ses-fCamk5_210407_sess11
+ses-fCamk5+210407+sess11+no+raw+data	ses-fCamk5_210407_sess11_no_raw_data
+ses-fCamk5+210408+sess12	ses-fCamk5_210408_sess12
+ses-fCamk5+210408+sess12+no+raw+data	ses-fCamk5_210408_sess12_no_raw_data
+ses-fCamk5+210412+sess14	ses-fCamk5_210412_sess14
+ses-fCamk5+210412+sess14+no+raw+data	ses-fCamk5_210412_sess14_no_raw_data
+ses-fCamk5+210414+sess16	ses-fCamk5_210414_sess16
+ses-fCamk5+210414+sess16+no+raw+data	ses-fCamk5_210414_sess16_no_raw_data

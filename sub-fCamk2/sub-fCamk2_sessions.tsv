@@ -1,9 +1,9 @@
-session_id
-ses-fCamk2+201012+sess1
-ses-fCamk2+201012+sess1+no+raw+data
-ses-fCamk2+201013+sess2
-ses-fCamk2+201013+sess2+no+raw+data
-ses-fCamk2+201014+sess3
-ses-fCamk2+201014+sess3+no+raw+data
-ses-fCamk2+201015+sess4
-ses-fCamk2+201015+sess4+no+raw+data
+session_id	original_session_id
+ses-fCamk2+201012+sess1	ses-fCamk2_201012_sess1
+ses-fCamk2+201012+sess1+no+raw+data	ses-fCamk2_201012_sess1_no_raw_data
+ses-fCamk2+201013+sess2	ses-fCamk2_201013_sess2
+ses-fCamk2+201013+sess2+no+raw+data	ses-fCamk2_201013_sess2_no_raw_data
+ses-fCamk2+201014+sess3	ses-fCamk2_201014_sess3
+ses-fCamk2+201014+sess3+no+raw+data	ses-fCamk2_201014_sess3_no_raw_data
+ses-fCamk2+201015+sess4	ses-fCamk2_201015_sess4
+ses-fCamk2+201015+sess4+no+raw+data	ses-fCamk2_201015_sess4_no_raw_data
